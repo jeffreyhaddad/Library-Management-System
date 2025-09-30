@@ -7,7 +7,7 @@ A command-line library management system built with Java that handles Books, DVD
   - Students: Free borrowing up to 3 items simultaneously
   - Civilians: Pay-per-borrow system with balance tracking
 - Borrowing System: Complete borrow and return workflow with validation
-- AData Persistence: Automatic save/load of all data between sessions
+- Data Persistence: Automatic save/load of all data between sessions
 - Search Functionality: Find items by serial number or title, members by ID or name
 
 ## Requirements
